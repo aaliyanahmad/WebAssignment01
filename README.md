@@ -9,7 +9,7 @@ Us, Contact Us, Products, Product Details, Sign Up, Login, and Cart. This projec
 hands-on experience in web development, covering both front-end and back-end aspects. (Hint: 
 you will create front end only in this assignment). 
 Website Description: 
-1. Home Page 
+1. Home Pagee
  Eye-catching layout with featured products, promotions, or special offers. 
  A navigation menu for easy access to all pages. 
  Use visually appealing images and ensure a clean, user-friendly interface. 
